@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct ContentView: View {
+struct AudioPracticeView: View {
     @StateObject private var audioManager = AudioManager()
 
     var body: some View {
